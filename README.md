@@ -1,1 +1,10 @@
-# aid_github_practice
+# Project Plan
+
+## Milestones
+
+* Design
+* Develop
+* Test
+
+```python
+print("Start Project")
